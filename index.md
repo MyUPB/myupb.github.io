@@ -1,45 +1,21 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: MyUPB - Welcome!
+tagline: Your homepage for UPB related IT services.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<!-- ![UPB Logo](http://provo.herokuapp.com/assets/upb_icon.png "UPB Logo") -->
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## important links for teaching
 
-## Update Author Attributes
+* [PINGO](http://pingo.upb.de) - das Classroom Response System der Uni Paderborn
+* [PAUL](https://paul.uni-paderborn.de) - PAUL
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## important links for pleasure
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* [iUPB](http://www.i-upb.de/de/restaurants) - aktueller Speiseplan
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## links for faculties / buildings
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
-
-
+* [Links for Q](#) -- will follow soon
