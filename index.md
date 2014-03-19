@@ -1,21 +1,30 @@
 ---
 layout: page
-title: MyUPB - Welcome!
+title: MyUPB - Willkommen!
 tagline: Your homepage for UPB related IT services.
 ---
 {% include JB/setup %}
 
-<!-- ![UPB Logo](http://provo.herokuapp.com/assets/upb_icon.png "UPB Logo") -->
-
-## important links for teaching
+## Links für die Lehre
 
 * [PINGO](http://pingo.upb.de) - das Classroom Response System der Uni Paderborn
 * [PAUL](https://paul.uni-paderborn.de) - PAUL
+* [koaLA](https://paul.uni-paderborn.de) - koaLA
 
-## important links for pleasure
+## Links zum Organisieren
+
+* [DFN Terminplaner](https://terminplaner.dfn.de) - Doodle Alternative vom DFN
+* [Telefonbuch/Personenverzeichnis](https://groups.uni-paderborn.de/itd/mkd/) - Yellow Pages der UPB
+
+## Links für die Freizeit
 
 * [iUPB](http://www.i-upb.de/de/restaurants) - aktueller Speiseplan
 
-## links for faculties / buildings
+## Katalog an IT-Diensten
 
-* [Links for Q](#) -- will follow soon
+* [zentrale Dienste](/it-services/central.html)
+* [dezentrale Dienste](/it-services/decentral.html)
+
+## spezielle Links für Fakultäten / Gebäude
+
+* [Links for Q](/q.html) -- will follow soon
