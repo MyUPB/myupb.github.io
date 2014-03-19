@@ -16,15 +16,16 @@ tagline: Your homepage for UPB related IT services.
 * [DFN Terminplaner](https://terminplaner.dfn.de) - Doodle Alternative vom DFN
 * [Telefonbuch/Personenverzeichnis](https://groups.uni-paderborn.de/itd/mkd/) - Yellow Pages der UPB
 
-## Links für die Freizeit
+## spezielle Links für Fakultäten / Gebäude
 
-* [iUPB](http://www.i-upb.de/de/restaurants) - aktueller Speiseplan
+* [Links für Q](/q.html) -- Für das neue Q/Wiwi-Gebäude
+
 
 ## Katalog an IT-Diensten
 
 * [zentrale Dienste](/it-services/central.html)
 * [dezentrale Dienste](/it-services/decentral.html) :new:
 
-## spezielle Links für Fakultäten / Gebäude
+## Links für die Freizeit
 
-* [Links für Q](/q.html) -- Für das neue Q/Wiwi-Gebäude
+* [iUPB](http://www.i-upb.de/de/restaurants) - aktueller Speiseplan
