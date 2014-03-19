@@ -23,8 +23,8 @@ tagline: Your homepage for UPB related IT services.
 ## Katalog an IT-Diensten
 
 * [zentrale Dienste](/it-services/central.html)
-* [dezentrale Dienste](/it-services/decentral.html)
+* [dezentrale Dienste](/it-services/decentral.html) :new:
 
 ## spezielle Links für Fakultäten / Gebäude
 
-* [Links for Q](/q.html) -- will follow soon
+* [Links für Q](/q.html) -- Für das neue Q/Wiwi-Gebäude

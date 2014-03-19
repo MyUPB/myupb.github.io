@@ -5,7 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-[Teamcity](http://www.jetbrains.com/teamcity/) ist ein Continuous Integration Server, d. h. er baut regelmäßig deine Software zusammen und führt deine Tests aus, sodass du ein konstantes Feedback hast.
+[Teamcity](http://www.jetbrains.com/teamcity/) ist ein [Continuous Integration](http://de.wikipedia.org/wiki/Kontinuierliche_Integration) Server, d. h. er baut regelmäßig deine Software zusammen und führt deine Tests aus, sodass du ein konstantes Feedback hast.
 
 TeamCity unterstützt verschiedenste Plattformen; wir nutzen TC für Ruby und .NET.
 
