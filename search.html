@@ -5,6 +5,26 @@ title: Suche
 {% include JB/setup %}
 
 <script>
+function getQueryParams(qs) { // http://stackoverflow.com/a/1099670/238931
+    qs = qs.split("+").join(" ");
+    var params = {}, tokens,
+        re = /[?&]?([^=]+)=([^&]*)/g;
+    while (tokens = re.exec(qs)) {
+        params[decodeURIComponent(tokens[1])]
+            = decodeURIComponent(tokens[2]);
+    }
+    return params;
+}
+
+var query = getQueryParams(document.location.search);
+document.getElementById("sitewide_search_field").value = query.q;
+
+if(document.querySelector !== undefined){
+  document.querySelector(".page-header h1").innerText = "Suche nach '" + query.q + "'";
+}
+</script>
+
+<script>
   (function() {
     var cx = '017336582802202524794:hnvkpuuzaki';
     var gcse = document.createElement('script');
@@ -16,4 +36,5 @@ title: Suche
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
+
 <gcse:searchresults-only></gcse:searchresults-only>
