@@ -10,7 +10,7 @@
 
     <link href="{{ ASSET_PATH }}/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet">
-  
+
     <!--[if lt IE 9]>
       <script src="{{ ASSET_PATH }}/resources/respond/Respond.min.js"></script>
     <![endif]-->
@@ -37,8 +37,19 @@
           <ul class="nav navbar-nav">
             <li><a href="/it-services/central.html">zentrale IT</a></li>
             <li><a href="/it-services/decentral.html">dezentrale IT</a></li>
-            <li><a href="/pages.html">Sitemap</a></li>
+            <li><a href="https://koala.uni-paderborn.de/wiki/4597894/">Wiki</a></li>
+            <li><a href="/pages.html">alle Seiten</a></li>
           </ul>
+          <form class="navbar-form" role="search" action="/search.html" method="GET" onsubmit="return document.getElementById('sitewide_search_field').value !== '';">
+            <div class="form-group">
+              <div class="input-group" style="width: 220px;">
+                <input type="search" name="q" required="required" id="sitewide_search_field" class="form-control" placeholder="Suchen…">
+                <span class="input-group-btn">
+                  <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+                </span>
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     </nav>

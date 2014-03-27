@@ -25,6 +25,7 @@ tagline: Your homepage for UPB related IT services.
 
 * [zentrale Dienste](/it-services/central.html)
 * [dezentrale Dienste](/it-services/decentral.html) :new:
+* [MyUPB-Dienste](/it-services/myupb/index.html) :new:
 
 ## Links für die Freizeit
 
