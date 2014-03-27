@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "links for Q"
+title: "Links für Q"
 description: "Links für das Q-Gebäude - Wiwi / UPB"
 ---
 {% include JB/setup %}

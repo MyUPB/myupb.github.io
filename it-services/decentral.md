@@ -14,6 +14,11 @@ Die folgenden Dienste wurden von den Betreibern veröffentlicht und können auf 
 * [TeamCity](/it-services/winfo2/teamcity.html)
 * [Dashing](/it-services/winfo2/dashing.html)
 
+
+## [MyUPB](/it-services/myupb/index.html)
+
+* [MyUPB-Wiki](https://koala.uni-paderborn.de/wiki/4597894/)
+
 ### Ihre Dienste in dieser Liste
 
 Senden Sie eine Mail an michael.whittaker_ÄT_wiwi.upb.de oder [forken Sie die Seite auf GitHub](https://github.com/MyUPB/myupb.github.io).
