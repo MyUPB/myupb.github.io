@@ -17,10 +17,12 @@ function getQueryParams(qs) { // http://stackoverflow.com/a/1099670/238931
 }
 
 var query = getQueryParams(document.location.search);
-document.getElementById("sitewide_search_field").value = query.q;
+if(query.q !== undefined){
+  document.getElementById("sitewide_search_field").value = query.q;
 
-if(document.querySelector !== undefined){
-  document.querySelector(".page-header h1").innerText = "Suche nach '" + query.q + "'";
+  if(document.querySelector !== undefined){
+    document.querySelector(".page-header h1").innerText = "Suche nach '" + query.q + "'";
+  }
 }
 </script>
 
