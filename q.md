@@ -5,7 +5,7 @@ description: "Links für das Q-Gebäude - Wiwi / UPB"
 ---
 {% include JB/setup %}
 
-* Raumbuchung
+* [Raumbuchung] (http://131.234.182.82/)
 * [Lunchmates](http://q.lunchmates.org)
 * Gebäudeautomation
 
