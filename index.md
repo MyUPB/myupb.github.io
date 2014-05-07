@@ -10,6 +10,8 @@ tagline: Your homepage for UPB related IT services.
 * [PINGO](http://pingo.upb.de) - das Classroom Response System der Uni Paderborn
 * [PAUL](https://paul.uni-paderborn.de) - PAUL
 * [koaLA](https://paul.uni-paderborn.de) - koaLA
+* [OX](https://ox.uni-paderborn.de) - Web-Portal für elektronischen Übungsbetrieb
+
 
 ## Links zum Organisieren
 
