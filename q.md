@@ -5,7 +5,7 @@ description: "Links für das Q-Gebäude - Wiwi / UPB"
 ---
 {% include JB/setup %}
 
-* [Raumreservierung] (http://rr.myupb.de/)
+* [RaumReservierung] (http://rr.myupb.de/)
 * [Lunchmates](http://q.lunchmates.org)
 * Gebäudeautomation
 
