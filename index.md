@@ -17,6 +17,7 @@ tagline: Your homepage for UPB related IT services.
 
 * [DFN Terminplaner](https://terminplaner.dfn.de) - Doodle Alternative vom DFN
 * [Telefonbuch/Personenverzeichnis](https://groups.uni-paderborn.de/itd/mkd/) - Yellow Pages der UPB
+* [Go.UPB.de](https://go.uni-paderborn.de/) - Ein Linkkürzungsdienst, ähnlich tinyurl oder bit.ly
 
 ## spezielle Links für Fakultäten / Gebäude
 
