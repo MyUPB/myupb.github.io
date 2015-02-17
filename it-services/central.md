@@ -5,6 +5,10 @@ description: "Sammlung an IT-Diensten der UPB"
 ---
 {% include JB/setup %}
 
+## Dateiaustausch
+* [Sciebo](https://www.sciebo.de/) - Die CampusCloud - Dropboxersatz für den akademischen Einsatz
+
+
 ## Entwicklung und Zusammenarbeit
 
 * [GitLab](https://git.cs.upb.de/) - Git Hosting ([weitere Infos](http://www.cs.uni-paderborn.de/irb/dienste/git-server.html))  
