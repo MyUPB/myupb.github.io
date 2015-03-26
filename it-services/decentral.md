@@ -15,7 +15,7 @@ Die folgenden Dienste wurden von den Betreibern veröffentlicht und können auf 
 * [Dashing](/it-services/winfo2/dashing.html)
 
 
-## [MyUPB](/it-services/myupb/index.html)
+## MyUPB
 
 * [MyUPB-Wiki](https://koala.uni-paderborn.de/wiki/4597894/)
 
