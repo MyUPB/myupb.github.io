@@ -23,7 +23,7 @@ description: "Sammlung an IT-Diensten der UPB"
 ## Weitere Dienste
 
 * [Go.UPB.de](https://go.uni-paderborn.de/) - Ein Linkkürzungsdienst, ähnlich tinyurl oder bit.ly
-* _weitere Kataloge_: Dienste des [IMT](http://imt.uni-paderborn.de/unser-angebot/dienste-von-a-bis-z/) (s. a. [IMT-Wiki](https://hilfe.uni-paderborn.de/Spezial:Alle_Seiten)), des [IRB](http://www.cs.uni-paderborn.de/irb/dienste.html) und der [Wiwi-Fakultät](http://wiwi.uni-paderborn.de/studierende/infrastruktur-technischer-support/)
+* _weitere Kataloge_: Dienste des [IMT](https://imt.uni-paderborn.de/it-dienste/) (s. a. [IMT-Wiki](https://hilfe.uni-paderborn.de/Spezial:Alle_Seiten)) und des [IRB](http://www.cs.uni-paderborn.de/irb/dienste.html)
 
 ### Ihr Vorschlag
 
